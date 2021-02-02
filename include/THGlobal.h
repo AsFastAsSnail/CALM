@@ -44,7 +44,7 @@ static const int kFileNameMaxChar = 2000;
 
 // Define version of THERMINATOR 2
 
-#define _CALM_VERSION_  "1.0"
+#define _CALM_VERSION_  "1.1"
 
 // Define compilation specific variables
 
